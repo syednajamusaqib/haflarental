@@ -1,2 +1,0 @@
-# haflarental
-Sample Website
